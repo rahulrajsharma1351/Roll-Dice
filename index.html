@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roll dice</title>
+    <link rel="shortcut icon" href="images/dice.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="wrapper">
+        <div class="cont1 cont player0 Player-active">
+            <h1 id="name-0" class="name">Player 1</h1>
+            <p id="score-0" class="score">45</p>
+            <div class="box box-1">
+                <h3>Current</h3>
+                <div class="current-score" id="currentScore-0">0</div>
+            </div>      
+        </div>
+
+        <div class="cont2 cont player1">
+            <h1 id="name-1" class="name">Player 2</h1>
+            <p id="score-1" class="score">35</p>
+            <div class="box box-2">
+                <h3>Current</h3>
+                <div class="current-score" id="currentScore-1">0</div>
+            </div>
+        </div>
+        <button class="btn btn1">🔄 New Game</button>
+        <button class="btn btn2">🎲 Roll dice</button>
+        <button class="btn btn3">⭕ Hold</button>
+
+        <img src="images/dice-1.png" class="dice" alt="playing-dice">
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
