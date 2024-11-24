@@ -31,11 +31,6 @@ A fun and interactive dice-rolling game built using **HTML**, **CSS**, and **Jav
 
 ---
 
-## 🚀 Getting Started
-1. Clone the repository:
-   ```bash
-   https://rahulrajsharma1351.github.io/Roll-Dice/
-
 ## 📸 Desktop Design
 ![Desktop design](./images/desktop-design.png)
 
