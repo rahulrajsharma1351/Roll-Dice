@@ -36,14 +36,15 @@ A fun and interactive dice-rolling game built using **HTML**, **CSS**, and **Jav
    ```bash
    https://rahulrajsharma1351.github.io/Roll-Dice/
 
-📸 Desktop Design
+## 📸 Desktop Design
 ![Desktop design](./images/desktop-design.png)
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
+
 Inspired by classic dice-rolling games.
 Special thanks to Rahul raj sharma for developing this project.
 
-📧 Contact
+## 📧 Contact
 For any queries or feedback, feel free to reach out:
 
 Email: rahulrajsharma512@gmail.com
