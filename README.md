@@ -34,23 +34,18 @@ A fun and interactive dice-rolling game built using **HTML**, **CSS**, and **Jav
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/roll-dice-game.git
+   https://rahulrajsharma1351.github.io/Roll-Dice/
 
-📸 Screenshots
-Coming Soon! (Add screenshots of your game interface here.)
+📸 Desktop Design
+![Desktop design](./images/desktop-design.png)
 
 🙌 Acknowledgments
 Inspired by classic dice-rolling games.
-Special thanks to [your name] for developing this project.
+Special thanks to Rahul raj sharma for developing this project.
 
 📧 Contact
 For any queries or feedback, feel free to reach out:
 
-Email: your-email@example.com
-GitHub: Your GitHub Profile
+Email: rahulrajsharma512@gmail.com
+GitHub: [rahulrajsharma1351](https://github.com/rahulrajsharma1351)
 
-
-### How to Use:
-1. Replace `"your-username"` with your GitHub username.
-2. Add your contact details or remove the contact section if not required.
-3. Optionally, include screenshots or GIFs to make the README more engaging.
